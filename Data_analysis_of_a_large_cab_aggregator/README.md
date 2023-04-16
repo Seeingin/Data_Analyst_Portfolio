@@ -39,12 +39,6 @@ driver_response — статус поездки (1 — поездка совер
 
 **Используемые библиотеки**
 
-`pandas`
+`pandas`  `numpy` `scipy`
   
-`numpy`
-  
-`scipy`
-  
-`matplotlib`
-  
-`seaborn`
+`matplotlib` `seaborn`
