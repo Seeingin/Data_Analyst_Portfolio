@@ -73,23 +73,23 @@
   
 `matplotlib` `seaborn`
 
-## 5. **Анализ данных по продажам зоомагазина**
+## 5. **Analyzing pet store sales data (Eng)**
 
-**Цели:**
+**Goals:**
 <li>
-Предварительное исследование данных
+Exploratory data analysis
 <li>
-Предобработка и очистка данных
+Data preprocessing and cleaning
 <li>
-Построение графиков для отображения закономерностей в данных
+Plotting graphs to show patterns in the data
 <li>
-Построение графиков для демонстрации распределения
+Plotting graphs to show distributions
 <li>
-Построение графиков для демонстрации корреляции
+Plotting graphs to show correlation
 <li>
-Формулирование выводов
+Formulate insights
 
-**Используемые библиотеки**
+**Libs**
 
 `pandas`  `numpy` `scipy`
   
