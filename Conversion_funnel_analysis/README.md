@@ -39,4 +39,6 @@ Application - Витрина содержит информацию о заявк
 
 `SQL` `pandas`  `numpy` `plotly`
 
-![График](https://www.example.com/image.jpg)
+**Пример**
+
+![График](https://github.com/Seeingin/Data_Analyst_Portfolio/blob/main/Conversion_funnel_analysis/funnel_plot.png)
