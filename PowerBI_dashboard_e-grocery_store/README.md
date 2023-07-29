@@ -59,4 +59,4 @@ quantity — количество единиц продукта
 ![Результат](https://github.com/Seeingin/Data_Analyst_Portfolio/blob/main/PowerBI_dashboard_e-grocery_store/Pics/dasbord_e_groccery.jpg)
 
 2. 
-![Результат](https://github.com/Seeingin/Data_Analyst_Portfolio/blob/main/PowerBI_dashboard_e-grocery_store/Pics/dasbord_e_groccery.jpg)
+![Результат](https://github.com/Seeingin/Data_Analyst_Portfolio/blob/main/PowerBI_dashboard_e-grocery_store/Pics/dasbord_e_groccery2.jpg)
