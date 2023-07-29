@@ -54,4 +54,6 @@ price —  цена за единицу продукта
 
 quantity — количество единиц продукта
 
+**Результат**
 
+![Текст описания](https://drive.google.com/file/d/1BJiFApTNSzmSCckKJHLuPP51w_Fe1875/view?usp=drive_link)
