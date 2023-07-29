@@ -126,3 +126,23 @@ Formulate insights
 `pandas`  `numpy` `scipy`
   
 `matplotlib` `seaborn`
+
+## 7. **Отчет в PowerBI по продажам компании экспресс-доставки**
+
+**Цели:**
+<li>
+Исследование данных
+<li>
+Объединение различных источников данных и настройка связей
+<li>
+Предобработка данных средставми PowerBI
+<li>
+Подготовка отчета с основными показателями бизнеса
+<li>
+Выявление трендов, аномалий и зависимостей в данных
+<li>
+Формулирование выводов и оформление результатов
+  
+**Результат**
+
+![Результат](https://github.com/Seeingin/Data_Analyst_Portfolio/blob/main/PowerBI_dashboard_e-grocery_store/Pics/dasbord_e_groccery1.jpg)
