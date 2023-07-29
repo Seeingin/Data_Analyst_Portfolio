@@ -37,4 +37,4 @@ Application - Витрина содержит информацию о заявк
 
 **Используемые библиотеки**
 
-`pandas`  `numpy` `plotly`
+`SQL` `pandas`  `numpy` `plotly`
