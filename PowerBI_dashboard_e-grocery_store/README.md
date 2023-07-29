@@ -56,4 +56,4 @@ quantity — количество единиц продукта
 
 **Результат**
 
-![Текст описания](https://drive.google.com/file/d/1BJiFApTNSzmSCckKJHLuPP51w_Fe1875/view?usp=drive_link)
+![Результат](https://github.com/Seeingin/Data_Analyst_Portfolio/blob/main/PowerBI_dashboard_e-grocery_store/Pics/dasbord_e_groccery.jpg)
