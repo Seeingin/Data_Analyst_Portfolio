@@ -35,4 +35,4 @@
 
 **Используемые библиотеки**
 
-`SQL` `pandas`  `numpy` `seaborn` `matplotlib` `requests` `urlencode` `pandahouse` `scipy`
+`pandas`  `numpy` `seaborn` `matplotlib` `requests` `urlencode` `pandahouse` `scipy`
